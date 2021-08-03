@@ -4,10 +4,6 @@
 
 [![Justin's github stats](https://github-readme-stats.vercel.app/api?username=justinswart&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-I mostly contribute to the open source [Kickstarter](https://www.github.com/kickstarter/ios-oss) repo:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kickstarter&repo=ios-oss)](https://github.com/anuraghazra/github-readme-stats)
-
 Get in touch:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinswart/)](https://www.linkedin.com/in/justinswart/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/justinswart)](https://twitter.com/justinswart)
